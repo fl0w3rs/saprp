@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: Bug report
 about: Создайте отчет, чтобы помочь мне улучшить мод
 title: ''
 labels: ''
